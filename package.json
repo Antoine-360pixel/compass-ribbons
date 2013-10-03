@@ -1,0 +1,16 @@
+{
+  "name": "Compass-ribbons",
+  "version": "0.0.0",
+  "description": "Generator Compass-ribbons",
+  "author": "Naivencreatik",
+  "license": "Proprietary",
+  "scripts": {
+    "package": "grunt compass:prod"
+  },
+  "devDependencies": {
+    "grunt": "0.3.x",
+    "grunt-compass": "0.3.x",
+    "grunt-reload": "0.2.x",
+    "grunt-clear": "~0.1.2"
+  }
+}
